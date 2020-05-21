@@ -1,2 +1,4 @@
 # TrillQuimica
-Coding website
+HTML and CSS code of website trill quimica
+
+#not finished
