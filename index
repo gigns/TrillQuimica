@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>="Trill Química LTDA"</title>
+
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="josefinsans-medium.ttf">
+    </head>
+
+    <body>
+        <header>
+            <div class="caixa">
+                <img class="logo-trill" src="logo-trill.png" alt="Logo da Trill" width="250px">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="servicos.html">Serviços</a></li>
+                        <li><a href="produtos.html">Produtos</a></li>
+                        <li><a href="sobre.html">A Empresa</a></li>
+                        <li><a href="contato.html">Contato</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+        <main>
+            <section>
+                <img class="banner" src="quimica.jpg" alt="Utensílios de laboratório" width="100%" height="600px">
+                <p class="welcome">"Sejam bem-vindos a Tríll Química. Atuamos no<br> mercado de <strong>couro, plásticos, serviços de<br> amostras, mistura de pós e líquidos desde 2004</strong><br> e, a partir de 2018 passamos a ser<br> distribuidores da <strong>Elkem</strong> no segmento de <em>coating release</em>."</p>
+                <img class="logo-elkem" src="logo-elkem.png" alt="Logo da Elkem">
+            </section>
+
+            <section class="principal">
+                <div>
+                    <h1 class="tecnologia">TECNOLOGIA</h1>
+                    <p>Um de nossos diferenciais é a tecnologia empregada pela empresa em suas operações.</p>
+                </div>
+                <div>
+                    <img class="reator" src="reatores.jpg" alt="Reatores químicos">
+                    <label>Reatores industriais usados para produção de produtos químicos</label>
+                </div>
+                <div>
+                    <img class="triturador" src="triturador.jpg" alt="Triturador de produtos químicos" width="400px">
+                    <p class="trit">Equipamento de Trituração da matéria=prima</p>
+                </div>
+
+            </section>
+        </main>
+
+        <footer>
+            <p>Solicite um orçamento !</p>
+            <p class="copyright">
+                &copy; Copyright Trill Química Ltda - 2020
+            </p>
+        </footer>
+    </body>
+</html>
